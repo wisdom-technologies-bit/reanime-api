@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for reanime-api on 2026-11-02T07:11:36Z
+# fly.toml app configuration file generated for reanime-api on 2026-11-02T07:17:12Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'reanime-api'
-primary_region = 'ams'
+primary_region = 'lhr'
 
 [build]
 
